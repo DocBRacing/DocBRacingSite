@@ -1,7 +1,7 @@
 {
   "title": "Home",
   "titleTemplate": "Doc B Racing",
-  "welcomeText": "![](/images/uploads/280zx_front_quarter.jpg)\n\n# Doc B Racing\n\nW﻿ork In Progress, come back soon!",
+  "welcomeText": "\n# Doc B Racing\n\nW﻿ork In Progress, come back soon!\n\n![](/images/uploads/280zx_front_quarter.jpg)",
   "logo": "/images/uploads/dbr_logo.jpg",
   "icon": "/images/uploads/dbr_logo.jpg",
   "loadingColor": "#0b3765",
